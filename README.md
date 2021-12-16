@@ -1,6 +1,6 @@
-Clon de Hulu, Responsive, basado en Next.js
+Responsive Hulu frontend clone.
 
-Tecnologías utilizadas:
+Used technologies:
 - Next.js
 - React
 - TailwindCSS
