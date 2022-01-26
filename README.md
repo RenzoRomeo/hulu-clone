@@ -2,7 +2,6 @@ Responsive Hulu frontend clone.
 
 Used technologies:
 - Next.js
-- React
 - TailwindCSS
 
 ![image](https://user-images.githubusercontent.com/46039237/144500613-72737227-a55d-4dfc-a0d8-fda343aa07f5.png)
